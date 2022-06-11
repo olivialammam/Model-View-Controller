@@ -47,6 +47,16 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 # Mock-Up
 ![hommmmmwork](https://user-images.githubusercontent.com/95842420/173165136-38133656-670c-4a90-850d-b1c3b0f79474.gif)
 
+# Packages Implemented:
+- express-handlebars (to use Handlebars.js for Views)
+- MYSQL2 (to connect to a MySQL database for Models)
+- Sequelize (to connect to a MySQL database for Models)
+- Express.js (API for Controllers)
+- dotenv (to use environment variables)
+- bcrypt (to hash passwords)
+- express-session (to add authentication)
+- connect-session-sequelize (to add authentication)
+
 # 👩🏻‍💻 GitHub:
 https://github.com/olivialammam/Model-View-Controller
 
